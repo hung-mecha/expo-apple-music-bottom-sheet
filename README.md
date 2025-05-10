@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/de63037b-327e-410e-917a-0ffc761fb82b
 ## 📦 Installation
 
 ```bash
-yarn add react-native-reanimated @gorhom/bottom-sheet
+npm i react-native-reanimated @gorhom/bottom-sheet
 ```
 
 Make sure to follow the setup instructions for Reanimated and Bottom Sheet based on your environment (Expo or bare React Native).
@@ -48,7 +48,7 @@ Make sure to follow the setup instructions for Reanimated and Bottom Sheet based
 ```bash
 git clone https://github.com/your-username/apple-music-bottom-sheet.git
 cd apple-music-bottom-sheet
-yarn install
+npm install
 npx expo start
 ```
 
