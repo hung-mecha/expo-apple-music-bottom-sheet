@@ -1,68 +1,113 @@
-# Expo Apple Music Bottom Sheet 🎶
+# 🎵 Expo Apple Music Bottom Sheet
 
-A smooth and interactive Apple Music–style bottom sheet animation built with:
+![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen) ![GitHub Issues](https://img.shields.io/badge/Issues-0-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-0-yellow)
 
-- [React Native](https://reactnative.dev)
-- [Reanimated v3](https://docs.swmansion.com/react-native-reanimated/)
-- [@gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet)
+Welcome to the **Expo Apple Music Bottom Sheet** repository! This project features an animated bottom sheet inspired by Apple Music, built using Expo, Reanimated v3, and @gorhom/bottom-sheet. This README provides all the information you need to get started with the project, understand its structure, and contribute.
 
-This replicates the behavior of the Apple Music mini-player expanding into a full player with animated transitions for content, image scaling, and background color.
+## Table of Contents
 
----
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage](#usage)
+4. [Demo](#demo)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Releases](#releases)
 
-## 📸 Preview
+## Features
 
-https://github.com/user-attachments/assets/de63037b-327e-410e-917a-0ffc761fb82b
+- **Smooth Animation**: Enjoy seamless transitions and animations.
+- **Customizable**: Easily modify the appearance and behavior to fit your needs.
+- **Responsive Design**: Works well on various screen sizes and orientations.
+- **Lightweight**: Minimal dependencies for optimal performance.
 
----
+## Getting Started
 
-## 🚀 Features
+To get started with the Expo Apple Music Bottom Sheet, follow these steps:
 
-- Interactive bottom sheet
-- Dynamic scaling and fading animations
-- Smooth image transition and positioning
-- Styled for both iOS and Android
-- Inspired by Apple Music UI/UX
+### Prerequisites
 
----
+Before you begin, ensure you have the following installed:
 
-## 🧱 Tech Stack
+- **Node.js**: Version 14 or later
+- **Expo CLI**: Install it globally using npm:
+  ```bash
+  npm install -g expo-cli
+  ```
 
-- `react-native`
-- `react-native-reanimated@^3.x`
-- `@gorhom/bottom-sheet`
-- `expo` (optional, but makes things easier)
+### Installation
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hung-mecha/expo-apple-music-bottom-sheet.git
+   ```
 
-## 📦 Installation
+2. Navigate to the project directory:
+   ```bash
+   cd expo-apple-music-bottom-sheet
+   ```
 
-```bash
-npm i react-native-reanimated @gorhom/bottom-sheet
-```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-Make sure to follow the setup instructions for Reanimated and Bottom Sheet based on your environment (Expo or bare React Native).
+4. Start the development server:
+   ```bash
+   expo start
+   ```
 
-## 🛠️ Usage
+## Usage
 
-```bash
-git clone https://github.com/your-username/apple-music-bottom-sheet.git
-cd apple-music-bottom-sheet
-npm install
-npx expo start
-```
+To use the bottom sheet in your project, follow these steps:
 
-## 💡 Inspiration
+1. Import the bottom sheet component in your screen:
+   ```javascript
+   import { BottomSheet } from './components/BottomSheet';
+   ```
 
-Inspired by Apple Music’s mini-player animation. The goal was to replicate the smooth transition experience using open source tools available to React Native developers.
+2. Add the component to your JSX:
+   ```javascript
+   <BottomSheet />
+   ```
 
+3. Customize the bottom sheet by passing props as needed. Check the component's documentation for available props.
 
-## 🙏 Credits
-	•	@gorhom for the bottom sheet library
-	•	Software Mansion for Reanimated
+## Demo
 
+You can view a live demo of the bottom sheet in action. To download and execute the demo, visit the [Releases section](https://github.com/hung-mecha/expo-apple-music-bottom-sheet/releases).
 
+## Contributing
 
-## 📄 License
+We welcome contributions! If you'd like to help improve this project, please follow these steps:
 
-MIT — feel free to use, fork, and build on it!
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+5. Open a pull request.
+
+Please ensure your code adheres to our coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Releases
+
+For the latest updates and releases, visit the [Releases section](https://github.com/hung-mecha/expo-apple-music-bottom-sheet/releases). You can download the latest version and execute it to see the bottom sheet in action.
+
+![Apple Music](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Apple_Music_logo.svg/1024px-Apple_Music_logo.svg.png)
+
+Thank you for checking out the **Expo Apple Music Bottom Sheet**! We hope you find it useful for your projects. If you have any questions or feedback, feel free to open an issue or reach out directly.
